@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: forestgreen;
+  font-family: 'EB Garamond', serif;
+  font-size: 25px;
+  color: white;
+  text-align: center;
+  border-width: 2px;
+}
+
+/* body {
+
+} */
+
+.stuff {
+  /* padding: 30px; */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#title {
+  margin-top: 30px;
+  margin-bottom: 15px;
+  font-size: 30px;
+  font-family: 'Kalam', cursive;
+}
+
+#ideasYo {
+  margin-bottom: 30px;
+}
+
+button {
+  font-size: 30px;
+}
